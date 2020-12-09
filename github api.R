@@ -1,5 +1,5 @@
 library(httr)
-#
+##
 # 1. Find OAuth settings for github:
 #    http://developer.github.com/v3/oauth/
 oauth_endpoints("github")
